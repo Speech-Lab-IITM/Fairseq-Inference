@@ -18,6 +18,6 @@ In our tests, we used following:
 
 # Usage
 ``` bash
-python3 infer.py model_path dict_path audio_path
+python3 infer.py model_path audio_path
 ```
 
