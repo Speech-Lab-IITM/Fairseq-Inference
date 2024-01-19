@@ -10,7 +10,7 @@ git clone https://github.com/Speech-Lab-IITM/fairseq_inference.git
 cd fairseq-0.12.2
 pip install --editable ./
 ```
-* In our tests, we used following:
+In our tests, we used following:
 * Python == 3.8.10
 * Pytorch == 1.12.1
 * torchaudio == 0.12.1
