@@ -9,6 +9,7 @@ Inference script for CCC-Wav2vec2.0 and Data2Vec-AQC
 git clone https://github.com/Speech-Lab-IITM/fairseq_inference.git
 cd fairseq-0.12.2
 pip install --editable ./
+pip install soundfile
 ```
 In our tests, we used following:
 * Python == 3.8.10
